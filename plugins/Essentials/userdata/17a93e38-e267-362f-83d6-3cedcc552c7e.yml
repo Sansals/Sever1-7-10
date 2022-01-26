@@ -1,0 +1,41 @@
+lastAccountName: Sansals
+timestamps:
+  login: 1643201752491
+  lastteleport: 1643190366909
+  lastheal: 1643188042303
+  logout: 1643203910535
+  mute: 0
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 204.4650404922139
+  y: 69.0
+  z: 135.2037617603683
+  yaw: -54.00748
+  pitch: 20.700048
+homes:
+  home:
+    world: world
+    x: 77.575716377851
+    y: 64.0
+    z: 134.4490035843536
+    yaw: -89.54924
+    pitch: 5.850057
+  home1:
+    world: world
+    x: 89.53185328102546
+    y: 64.0
+    z: 144.57560166537408
+    yaw: -15.749227
+    pitch: 3.1500669
+nickname: Sansals
+money: '192.0'
+logoutlocation:
+  world: world
+  x: 114.47604683835173
+  y: 65.0
+  z: 144.10514724914705
+  yaw: -258.59894
+  pitch: -17.400013
+muted: false
+afk: false

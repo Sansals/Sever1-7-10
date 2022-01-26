@@ -1,0 +1,32 @@
+lastAccountName: Admin
+timestamps:
+  login: 1643180309522
+  lastteleport: 1643144158796
+ipAddress: 127.0.0.1
+nickname: admin
+powertools:
+  '271':
+  - wood axe
+afk: false
+homes:
+  home:
+    world: world
+    x: -304.9243614856752
+    y: 85.0
+    z: 252.40853563240904
+    yaw: -203.84741
+    pitch: 52.65016
+lastlocation:
+  world: world
+  x: -293.5
+  y: 82.0
+  z: 226.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -309.36361276802256
+  y: 89.0
+  z: 241.30000001192093
+  yaw: -128.99591
+  pitch: 27.15012

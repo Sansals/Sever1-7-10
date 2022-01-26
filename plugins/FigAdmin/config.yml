@@ -1,0 +1,42 @@
+mysql: true
+mysql-database: jdbc:mysql://mysql.localhost:3306/grincraft
+mysql-user: Sansals
+mysql-password: Smoking.2019
+mysql-table: banlist
+auto-complete: true
+ip-ban: true
+bans-to-banned-players: false
+auto-ban-on-warnings: -1
+auto-ban-time: 1 day
+messages:
+  banMsgFailed: '&cИгрок &e%victim% &cуже забанен!'
+  unbanMsg: '&aУспешно разбенен игрок &e%victim%&a!'
+  unbanMsgGlobal: '&e%victim% &6был разбанен &e%player%&6!'
+  unbanMsgFailed: '&cОшибка разбана игрока &e%victim%&c!'
+  kickAllMsg: '%player% кикнул всех игроков, причина: %reason%'
+  kickDefaultReason: '&eНарушение правил сервера.'
+  kickGobalDefaultRason: '&4Перезагрузка сервера! &2Приходите через 1 минуту!'
+  kickMsgVictim: 'Вы были кикнуты %player%, причина: %reason%'
+  kickMsgBroadcast: '&e%victim% &6был кикнут &e%player%&6, причина: &e%reason%'
+  kickMsgFailed: '&cОшибка: &6%victim% &cИгрок оффлайн.'
+  banMsgVictim: '&eВы были забанены навсегда &e%player%&f,&6 причина: %reason%'
+  banMsgBroadcast: '&e%victim% &6был забанен навсегда &e%player%&f,&6 причина: &e%reason%'
+  banDefaultReason: '&eНарушение правил сервера.'
+  banOffline: '&eПримичание: &8Игрок &a%player%&8 никогда не был на сервере.'
+  tempbanMsgVictim: 'Вы были временно забанены %player%, причина: %reason%'
+  tempbanMsgBroadcast: '&e%victim% &6временно забанен &e%player%&6, причина: &e%reason%'
+  LoginTempban: '&cВременно забанен на &e%time%&c, причина: &e%reason%'
+  LoginBan: '&cЗабанен, причина: &e%reason%'
+  LoginIPBan: '&cIP-адрес заблокировал.'
+  badPlayerName: '&cНикнейм содержит запрещенные символы (-+=*" и рус. буквы и пробелы)'
+  playerNotOnline: '&cИгрок &e%player% &cв оффлайн.'
+  warnMsgBroadcast: '&cИгроку &e%player%&f был выдан варн &c%kicker%&f:'
+  warnMsgVictim: '&cУ вас варн &c%player%&f:'
+  reloadMsg: '&aПлагин FigAdmin перезагружен.&7 Перевод от EnderEks.'
+  exportMsg: '&aПосмотрите бан-лист: banned-players.txt'
+  playerBanned: '&cИгрок %player% забанен.'
+  playerNotBanned: '&aИгрок %player% не забанен.'
+  ipBan: '&eЭтот IP-адрес забанен.'
+  noPermission: '&cУ вас нет прав администратора.'
+  warnDeleted: '&aВсе %number% варны очищены для игрока &e%player%&a.'
+  warnNone: '&cНа игроке &e%player%&c варны не найдены!'

@@ -1,0 +1,34 @@
+lastAccountName: admin
+timestamps:
+  login: 1643212703335
+  logout: 1643212703327
+  lastteleport: 1643215190286
+  kits:
+    color: 1643220405127
+    start: 1643219257068
+    notch: 1643219489783
+    dtools: 1643219617031
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 88.05173829301603
+  y: 64.0
+  z: 155.04486652345085
+  yaw: -188.0983
+  pitch: 4.4999547
+logoutlocation:
+  world: world
+  x: -122.55084486195602
+  y: 68.0
+  z: 214.86319020313692
+  yaw: -158.24098
+  pitch: 69.30016
+afk: false
+homes:
+  home:
+    world: world
+    x: 90.40381577092296
+    y: 64.0
+    z: 133.79798567449632
+    yaw: -252.74922
+    pitch: 24.900005

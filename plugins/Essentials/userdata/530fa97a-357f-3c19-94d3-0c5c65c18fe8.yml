@@ -1,0 +1,47 @@
+lastAccountName: test
+timestamps:
+  login: 1643216692412
+  logout: 1643216181796
+  lastteleport: 1643215882747
+  lastheal: 1643215777353
+  kits:
+    start: 1643219700397
+    vip: 1643220825278
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 81.5
+  y: 64.0
+  z: 151.5
+  yaw: 14.101745
+  pitch: 13.799958
+lastlocation:
+  world: world
+  x: 74.28545988773689
+  y: 63.0
+  z: 138.53591908192982
+  yaw: 16.35175
+  pitch: 11.549962
+homes:
+  home:
+    world: world
+    x: 83.89537504079836
+    y: 64.0
+    z: 147.2034311654567
+    yaw: -144.29935
+    pitch: 9.000004
+  home2:
+    world: world
+    x: 86.46690747453644
+    y: 66.86512829970259
+    z: 144.89332668662527
+    yaw: -254.1001
+    pitch: 34.049953
+  home3:
+    world: world
+    x: 81.65845337161595
+    y: 64.0
+    z: 155.90119636050738
+    yaw: -358.50018
+    pitch: 19.500061
+afk: false

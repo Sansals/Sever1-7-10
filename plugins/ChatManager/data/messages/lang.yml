@@ -1,0 +1,9 @@
+createnew: Delete this chapter to generate this config new
+CMD_ONLY_FOR_PLAYERS: This Command is only for players.
+CORRECT_USE_PREFIX: 'Correct usage: /prefix <Name> <Prefix>'
+CORRECT_USE_SUFFIX: 'Correct usage: /suffix <Name> <Suffix>'
+CHANGED_PREFIX: You changed the Prefix of %player% to %value%!
+CHANGED_SUFFIX: You changed the Suffix of %player% to %value%!
+PREFIX_DESCRIPTION: '&c/prefix [Name] [Prefix]: &rChange the Prefix of a Player'
+SUFFIX_DESCRIPTION: '&c/suffix [Name] [Suffix]: &rChange the Suffix of a Player'
+TOO_MANY_ARGS: Too many Arguments!

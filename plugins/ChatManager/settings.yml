@@ -1,0 +1,10 @@
+message:
+  join: '&4{Player} &7joined the Game in &6{World}&7!'
+  quit: '&4{Player} &7left the Game at &6{World}&7!'
+firstjoin:
+  prefix: Newbie
+  suffix: Suffix
+global:
+  info: If enabled, all group-formats will replaced with the global-format (Or if you havent got a Permission Plugin)
+  enabled: 'true'
+  format: '[{Prefix}] {Player}&7: &r{Message}'

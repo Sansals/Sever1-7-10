@@ -1,0 +1,22 @@
+lastAccountName: Enabled
+timestamps:
+  login: 1643143418556
+  mute: 0
+  logout: 1643143611431
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 58.5
+  y: 66.0
+  z: 229.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 44.826385033342106
+  y: 69.0
+  z: 286.236983202808
+  yaw: -79.19997
+  pitch: 12.599999
+afk: false
+muted: false

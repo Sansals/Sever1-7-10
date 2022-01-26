@@ -1,0 +1,53 @@
+groups:
+  default:
+    default: true
+    permissions:
+      - essentials.tpaccept
+      - worldedit.selection.pos
+      - worldedit.selection.hpos
+      - worldguard.region.claim
+      - worldguard.region.addmember.own.*
+      - worldguard.region.removemember.own.*
+      - worldguard.region.addowner.own.*
+      - worldguard.region.removeowner.own.*
+      - worldguard.region.info.own
+      - worldguard.region.list.own
+      - worldguard.region.remove.own.*
+      - worldedit.wand
+      - essentials.sethome
+      - essentials.delhome
+      - essentials.home
+      - iconomy.money.pay
+      - essentials.spawn
+  VIP:
+    inheritance:
+      - default
+    default: false;
+    permissions:
+      - essentials.fly
+      - essentials.sethome.multiple
+      - essentials.near
+      - essentials.world
+      - essentials.protect.teleport.delay
+      - essentials.afk.kickexempt
+
+  Premium:
+    inheritance:
+      - VIP
+    default: false;
+    permissions:
+      - essentials.tpa
+      - essentials.tpahere
+      - essentials.setwarp
+      - essentials.head
+      - essential.heal
+      - essentials.back.ondeath
+
+  Exclusive:
+    inheritance:
+      - Premium
+    options:
+      default: false;
+    permissions:
+
+schema-version: 1
